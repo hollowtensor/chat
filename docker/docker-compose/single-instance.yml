@@ -41,7 +41,7 @@ x-tinode-env-vars: &tinode-env-vars
   # iOS app universal links configuration.
   # "IOS_UNIV_LINKS_APP_ID": "<ios universal links app id>"
   # Video calls
-  "WEBRTC_ENABLED": "false"
+  "WEBRTC_ENABLED": "true"
   # "ICE_SERVERS_FILE": "<path to ICE servers config>"
 
 x-exporter-env-vars: &exporter-env-vars
